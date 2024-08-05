@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.destinos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.sobre {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
